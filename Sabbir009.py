@@ -226,10 +226,6 @@ def nahid_afridy():
  
 def rcrack(uid,pwx,tl):
     #print(user)
-    global loop
-    global cps
-    global oks
-    global proxy
     try:
         for ps in pwx:
             session = requests.Session()
