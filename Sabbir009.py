@@ -206,7 +206,7 @@ def innocent():
         print('\033[1;92m [!] Use Flight Mode For Speed Up')
         linex()
         for fuck in user:
-            pwx = [fuck,'bangladesh','Bangladesh','freefire','i love you','free fire','sadiya]
+            pwx = [fuck,'bangladesh']
             uid = code+fuck
             ahare.submit(mumitx,uid,pwx,tl)
     print('CRACK PROCESS HAS BEEN COMPLETED ')
